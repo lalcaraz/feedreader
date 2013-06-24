@@ -1,0 +1,84 @@
+{include="desktop/header"}
+
+{if condition="$fsc->feed"}
+<script src="{$path}/view/js/jquery.masonry.min.js"></script>
+<script type="text/javascript">
+   $(document).ready(function() {
+      $("#stories").masonry({
+         itemSelector: '.story',
+         isFitWidth: true,
+         isAnimated: true
+      });
+      $('#b_remove_feed').click(function() {
+         window.location.href = "{$fsc->url()}&delete="+prompt('Clave maestra:');
+      });
+   });
+</script>
+
+<div class="info">
+   <table width="100%">
+      <tr>
+         <td>
+            <h1>{$fsc->feed->name}</h1>
+         </td>
+         <td align="right">
+            {if condition="$fsc->unsuscribe"}
+            <a class="button_remove" href="{$fsc->suscribe_url}">{$fsc->suscribe_text}</a>
+            {else}
+            <a class="button" href="{$fsc->suscribe_url}">{$fsc->suscribe_text}</a>
+            {/if}
+         </td>
+      </tr>
+   </table>
+   <table class="lista">
+      <tr>
+         <th align="left">Descripción</th>
+         <th align="left">URL</th>
+         <th align="left">Última actualización</th>
+         <th align="left">Última comprobación</th>
+         <th align="right">Suscriptores</th>
+         <th align="right">Errores</th>
+      </tr>
+      <tr>
+         <td>{$fsc->feed->description}.</td>
+         <td>{$fsc->feed->url}</td>
+         <td>{$fsc->feed->last_update_timesince()}</td>
+         <td>{$fsc->feed->last_check_timesince()}</td>
+         <td align="right">{$fsc->feed->suscriptors}</td>
+         <td align="right">{$fsc->feed->strikes}</td>
+      </tr>
+   </table>
+   <table width="100%">
+      <tr>
+         <td>
+            <a class="facebook" target="_blank" href="{$fsc->facebook_url()}">Facebook</a>
+            <a class="twitter" target="_blank" href="{$fsc->twitter_url()}">Twitter</a>
+         </td>
+         <td align="right">
+            <a id="b_remove_feed" class="remove" href="#">Eliminar esta fuente</a>
+         </td>
+      </tr>
+   </table>
+</div>
+
+<div id="stories">
+   {loop="$fsc->stories"}
+      <div class="story{if condition="$value->readed()"} story_readed{/if}" onclick="fs_popup_story('{$path}/{$value->url()}')">
+         {if condition="$value->media_item"}
+            <div class="image">{$value->media_item->show_image()}</div>
+            <h1>{$value->title}</h1>
+         {else}
+            <h1>{$value->title}</h1>
+            <p>{$value->description()}</p>
+         {/if}
+         <div class="timesince">
+            {$value->popularity()}
+            <span>{$value->timesince()}</span>
+         </div>
+      </div>
+      <a href="{$path}/{$value->url()}"></a>
+   {/loop}
+</div>
+{/if}
+
+{include="desktop/footer"}

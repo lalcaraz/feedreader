@@ -1,0 +1,35 @@
+{include="mobile/header"}
+
+{if condition="$fsc->stories"}
+   <div>
+      {loop="$fsc->stories"}
+      <div class="story{if condition="$value->readed()"} story_readed{/if}" onclick="fs_go2url('{$path}/{$value->url()}')">
+         {if condition="$value->media_item"}
+            <div class="image">{$value->media_item->show_image()}</div>
+            <h4>{$value->title}</h4>
+         {else}
+            <h4>{$value->title}</h4>
+            <p>{$value->description()}</p>
+         {/if}
+         <div class="timesince">
+            {$value->popularity()}
+            <span>{$value->timesince()}</span>
+         </div>
+      </div>
+      <a href="{$path}/{$value->url()}"></a>
+      {/loop}
+   </div>
+{else}
+   <div class="alert">
+      <h1>No se han encontrado noticias :(</h1>
+      <p>
+         Esto es muy grave. No en plan "¡Vamos a morir todos!". No, simplemente
+         es una mierda.<br/>
+         Añade alguna fuente desde la sección
+         <a href="{$path}/index.php?page=feed_list">fuentes</a>. O deja que lo haga
+         otro y luego di que has sido tú y te llevas el mérito ;-)
+      </p>
+   </div>
+{/if}
+
+{include="mobile/footer"}

@@ -1,0 +1,70 @@
+{include="mobile/header"}
+
+{if condition="$fsc->stories"}
+   <div>
+      {loop="$fsc->stories"}
+      <div class="story{if condition="$value->readed()"} story_readed{/if}" onclick="fs_go2url('{$path}/{$value->url()}')">
+         {if condition="$value->media_item"}
+            <div class="image">{$value->media_item->show_image()}</div>
+            <h4>{$value->title}</h4>
+         {else}
+            <h4>{$value->title}</h4>
+            <p>{$value->description()}</p>
+         {/if}
+         <div class="timesince">
+            {$value->popularity()}
+            <span>{$value->timesince()}</span>
+         </div>
+      </div>
+      {/loop}
+   </div>
+{else}
+   <div class="alert">
+      <h3>No se han encontrado noticias para tí :(</h3>
+      <p>
+         Para que aparezcan noticias aquí debes suscribirte a alguna fuente,
+         mira en la sección <a href="{$path}/index.php?page=feed_list">fuentes</a>.
+         También puedes buscar noticias interesantes desde la sección
+         <a href="{$path}/index.php?page=discover_stories">descubrir</a>.
+      </p>
+   </div>
+   
+   {if condition="$fsc->popular"}
+   <div>
+      {loop="$fsc->editions"}
+      <div class="story" onclick="fs_go2url('{$path}/{$value->url()}')">
+         {if condition="$value->media_item"}
+            <div class="image">{$value->media_item->show_image()}</div>
+            <h4>{$value->title}</h4>
+         {else}
+            <h4>{$value->title}</h4>
+            <p>{$value->description()}</p>
+         {/if}
+         <div class="timesince">
+            {$value->votes} votos
+            <span>{$value->timesince()}</span>
+         </div>
+      </div>
+      <a href="{$path}/{$value->url()}"></a>
+      {/loop}
+      {loop="$fsc->popular"}
+      <div class="story{if condition="$value->readed()"} story_readed{/if}" onclick="fs_go2url('{$path}/{$value->url()}')">
+         {if condition="$value->media_item"}
+            <div class="image">{$value->media_item->show_image()}</div>
+            <h4>{$value->title}</h4>
+         {else}
+            <h4>{$value->title}</h4>
+            <p>{$value->description()}</p>
+         {/if}
+         <div class="timesince">
+            {$value->popularity()}
+            <span>{$value->timesince()}</span>
+         </div>
+      </div>
+      <a href="{$path}/{$value->url()}"></a>
+      {/loop}
+   </div>
+   {/if}
+{/if}
+
+{include="mobile/footer"}

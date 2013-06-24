@@ -1,0 +1,1182 @@
+<!doctype html>
+<!--[if lt IE 7]><html lang="en-us" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]><html lang="en-us" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if IE 8]><html lang="en-us" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="en-us" class="no-js"><!--<![endif]-->
+<head>
+	<!-- V:Home Page -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<!-- M:head-seo-global -->
+	<title>Engadget</title>
+	<link rel="canonical" href="http://www.engadget.com/">
+        <meta name="description" content="Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics"/>
+        <meta property="og:title" content="Engadget">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="http://www.engadget.com/">
+        <meta property="og:site_name" content="Engadget">
+<!-- /M --> 
+	 
+	 
+	 
+	<!-- M:head-global -->
+        <script src="//cdn.optimizely.com/js/188467830.js"></script>
+	<!-- Meta -->
+	<meta name="google-site-verification" content="7JgyWgCnJ0p6cMe5IDgN04oFCKsoUZicRDKzE0X_yGg">
+	<meta name="y_key" content="c1d42ea7482b09b7">
+	<meta name="bitly-verification" content="f57da7265213">
+	<meta name="p:domain_verify" content="fb69533f2acad78bdd89abf093c35a28" />
+	<meta name="msvalidate.01" content="5ABD8A078F3356F3A6A8C8643C31FB8F">
+	<meta name="viewport" content="width=device-width initial-scale=1.0">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <meta name="application-name" content="Engadget"/>
+        <meta name="msapplication-TileColor" content="#0089b0"/>
+        <meta name="msapplication-TileImage" content="http://www.blogsmithmedia.com/www.engadget.com/media/87c58cb8-a41c-48ff-b0ac-ce8390b349a6.png"/>
+
+
+	<!-- FB -->
+	<meta property="fb:admins" content="502494500">
+	<meta property="og:title" content="">
+	
+
+	<!-- RSS -->
+	<link rel="alternate" type="application/rss+xml" title="Engadget" href="http://www.engadget.com/rss.xml">
+
+        <!-- icons -->
+        <link rel="shortcut icon" href="http://www.blogsmithmedia.com/www.engadget.com/media/favicon.ico">
+        <link rel="apple-touch-icon-precomposed" href="http://www.blogsmithmedia.com/www.engadget.com/media/apple-touch-icon-z.png" />
+        <meta name="apple-touch-fullscreen" content="yes" />
+
+	<!-- CSS -->
+	<!--[if lte IE 8]><link rel="stylesheet" href="http://www.blogsmithmedia.com/www.engadget.com/media/style-ie.css?315"><![endif]-->
+	<!--[if gt IE 8]><!--><link rel="stylesheet" href="http://www.blogsmithmedia.com/www.engadget.com/media/style.css?315"><!--<![endif]-->
+  
+
+        <script src="http://www.blogsmithmedia.com/www.engadget.com/include/core.js?315"></script>
+	<script>
+	data = {
+		blogUrl: "www.engadget.com",
+		v: 315
+	};
+
+	when = {
+		jquery: lab.scriptBs("jquery"),
+		plugins: lab.scriptBs("plugins"),
+		eng: lab.scriptBs("eng")
+	};
+        
+        var s265prop9 = ('' !== '') ? 'bsd:' : '';
+        var postID = '';
+        var modalMNo = '93318635',
+        modalVideoMNo = '93320648',
+        modalGalleryMNo = '93304207';
+        when.eng("eng.omni.init", {
+		pfxID:"weg",
+		pageName:document.title,
+		server:"acp-ld39.websys.aol.com",
+		channel:"us.engadget",
+                s_account: "aolwbengadget,aolsvc",
+                short_url: "",
+		pageType:"",
+		linkInternalFilters:"javascript:,",
+		prop1:"main",
+		prop2:"main",
+                prop8:"bss:21",
+		prop9:s265prop9,
+		prop12:document.location,
+		prop17:"",
+		prop18:"",
+		prop19:"",
+		prop20:"",
+                prop22:"",
+                prop54:"blogsmith",
+		mmxgo: true
+	});
+
+	</script>
+        
+	<!-- Ads JS -->
+	<script src="http://o.aolcdn.com/ads/adsWrapper.js"></script>
+	<script>
+	adSendTerms('1')
+	adSetMOAT('1');
+	adSetAdURL('/_uac/adpagem.html');
+        </script>
+
+	<!-- /M --> 
+	<link href="http://o.aolcdn.com/os/ads/adhesion/css/adhads.css" rel="stylesheet" type="text/css"/>
+<script>
+
+	lab._script("http://o.aolcdn.com/os/ads/adhesion/js/adhads-min.js").wait(function(){
+		var floatingAd = new AdhesiveAd("348-14-15-14b",{hideOnSwipe:true});
+	});
+
+</script> 
+	 
+	 
+	 
+</head>
+<body class="with-rail home">
+
+<!-- Page header -->
+<div id="header" class="container">
+	 
+	 
+	<!-- M:header-ad-banner -->
+<div class="ad header-ad header-ad-banner">
+	<script>
+	onBreak({
+		980: function () {
+                        adSetType("F");
+			htmlAdWH("93318635", "LB", "LB");
+                        adSetType("");
+		}
+	});
+	</script>
+</div>
+<!-- /M --> 
+	 
+	<!-- M:header-global -->
+
+<header role="banner">
+	 <h1>
+	<a href="/" class="s-logo1">Engadget</a>
+	 </h1>
+
+	<div id="nav">
+		<nav class="nav" id="nav-mini">
+			<a class="item menu" href="#nav-main">
+				Menu
+				<i class="s-arrow-white-down"></i>
+			</a>
+
+			<a class="item search" href="#nav-search">
+				<i class="s-search-white"></i>
+			</a>
+		</nav>
+
+		<nav class="nav" id="nav-main">
+			<ul>
+                                
+				<li class="news">
+					<a class="item active" href="/">News</a>
+				</li>
+				<li class="reviews">
+					<a class="item " href="/reviews/">Reviews</a>
+				</li>
+                                <li class="features">
+					<a class="item " href="/features/">Features</a>
+				</li>
+                                <li class="galleries">
+					<a class="item " href="/galleries/">Galleries</a>
+				</li>
+                                <li class="videos">
+					<a class="item " href="/videos/">Videos</a>
+				</li>
+				<li class="events">
+					<a class="item " href="/events/">Events</a>
+				</li>
+				<li class="podcasts">
+					<a class="item " href="/podcasts/the-engadget-podcast/">Podcasts</a>
+				</li>
+                                <li class="engadget-show">
+					<a class="item " href="/videos/show/">Engadget Show</a>
+				</li>				
+				<li class="topics">
+					<a class="item" href="#nav-topics">
+						Topics
+						<i class="s-arrow-white-down"></i>
+					</a>
+				</li>
+			</ul>
+		</nav>
+
+		<section id="nav-topics">
+                        <nav class="nav more">
+                            <a class="item buyersguides" href="/buyers-guides/">Buyers Guides</a>
+                            <a class="item sagas" href="/sagas/">Sagas</a>
+                            <a class="item store" href="http://shopca.eboy.com/collections/engadget">Store</a>
+                        </nav>
+			<!-- M:header-global-categories -->
+
+<nav class="nav topics"><a href="/topics/hd/" class="topic-hd">HD</a> <a href="/topics/mobile/" class="topic-mobile">Mobile</a> <a href="/topics/alt/" class="topic-alt">Alt</a> <a href="/topics/announcements/" class="topic-announcements">Announcements</a> <a href="/topics/cameras/" class="topic-cameras">Cameras</a> <a href="/topics/cellphones/" class="topic-cellphones">Cellphones</a> <a href="/topics/desktops/" class="topic-desktops">Desktops</a> <a href="/topics/displays/" class="topic-displays">Displays</a> <a href="/topics/gaming/" class="topic-gaming">Gaming</a> <a href="/topics/gps/" class="topic-gps">GPS</a> <a href="/topics/handhelds/" class="topic-handhelds">Handhelds</a> <a href="/topics/home-entertainment/" class="topic-home-entertainment">Home Entertainment</a> <a href="/topics/household/" class="topic-household">Household</a> <a href="/topics/internet/" class="topic-internet">Internet</a> <a href="/topics/laptops/" class="topic-laptops">Laptops</a> <a href="/topics/meta/" class="topic-meta">Meta</a> <a href="/topics/misc/" class="topic-misc">Misc</a> <a href="/topics/networking/" class="topic-networking">Networking</a> <a href="/topics/peripherals/" class="topic-peripherals">Peripherals</a> <a href="/topics/podcasts/" class="topic-podcasts">Podcasts</a> <a href="/topics/robots/" class="topic-robots">Robots</a> <a href="/topics/portable-audio-video/" class="topic-portable-audio-video">Portable Audio/Video</a> <a href="/topics/science/" class="topic-science">Science</a> <a href="/topics/software/" class="topic-software">Software</a> <a href="/topics/storage/" class="topic-storage">Storage</a> <a href="/topics/tablets/" class="topic-tablets">Tablets</a> <a href="/topics/transportation/" class="topic-transportation">Transportation</a> <a href="/topics/wearables/" class="topic-wearables">Wearables</a> <a href="/topics/wireless/" class="topic-wireless">Wireless</a> </nav>
+
+<!-- /M --> 
+			<!-- M:header-global-categories -->
+
+<nav class="nav companies"><a href="/topics/acer/" class="topic-acer">Acer</a> <a href="/topics/amazon/" class="topic-amazon">Amazon</a> <a href="/topics/amd/" class="topic-amd">AMD</a> <a href="/topics/apple/" class="topic-apple">Apple</a> <a href="/topics/asus/" class="topic-asus">ASUS</a> <a href="/topics/atandt/" class="topic-atandt">AT&T</a> <a href="/topics/blackberry/" class="topic-blackberry">Blackberry</a> <a href="/topics/canon/" class="topic-canon">Canon</a> <a href="/topics/dell/" class="topic-dell">Dell</a> <a href="/topics/facebook/" class="topic-facebook">Facebook</a> <a href="/topics/google/" class="topic-google">Google</a> <a href="/topics/hp/" class="topic-hp">HP</a> <a href="/topics/htc/" class="topic-htc">HTC</a> <a href="/topics/intel/" class="topic-intel">Intel</a> <a href="/topics/lenovo/" class="topic-lenovo">Lenovo</a> <a href="/topics/lg/" class="topic-lg">LG</a> <a href="/topics/microsoft/" class="topic-microsoft">Microsoft</a> <a href="/topics/nikon/" class="topic-nikon">Nikon</a> <a href="/topics/nintendo/" class="topic-nintendo">Nintendo</a> <a href="/topics/nokia/" class="topic-nokia">Nokia</a> <a href="/topics/nvidia/" class="topic-nvidia">NVIDIA</a> <a href="/topics/samsung/" class="topic-samsung">Samsung</a> <a href="/topics/sony/" class="topic-sony">Sony</a> <a href="/topics/sprint/" class="topic-sprint">Sprint</a> <a href="/topics/t-mobile/" class="topic-t-mobile">T-Mobile</a> <a href="/topics/verizon/" class="topic-verizon">Verizon</a> </nav>
+
+<!-- /M --> 
+		</section>
+
+		<form action="/search/" class="nav" id="nav-search" method="get">
+			<div class="query">
+				<input class="query-input" id="nav-search-input" name="q" placeholder="Search Engadget">
+				<span class="query-button"></span>
+			</div>
+		</form>
+
+		<ul class="site-tools" id="nav-tools">
+			<li class="about cap-left">
+				<a href="/about">
+					About Us
+				</a>
+			</li>
+			<li class="rss">
+				<a href="/rss.xml">
+					Subscribe
+					<i class="s-icn-rss"></i>
+				</a>
+			</li>
+			<li class="facebook">
+				<a href="//www.facebook.com/Engadget">
+					Like Engadget
+					<i class="s-icn-facebook"></i>
+				</a>
+			</li>
+			<li class="twitter">
+				<a href="//twitter.com/intent/user?screen_name=engadget">
+					@engadget
+					<i class="s-icn-twitter"></i>
+				</a>
+			</li>
+			<li class="tips cap-right">
+				<a class="tips-link" href="/about/tips">
+					tip us
+				</a>
+			</li>
+		</ul>
+	</div>
+
+	<script>when.eng("eng.nav.init")</script>
+	<script>when.eng("eng.tips.init")</script>
+</header>
+
+<!-- /M --> 
+	 
+	 
+	<div class="expand-banner container">
+
+<a href="/expand/"><span class="ex-logo">Expand</span></a>
+
+	<p>Now accepting applications for <a href="/expand/competition/?ncid=hp1">Insert Coin: New Challengers</a> at <a href="/expand/about/?ncid=hp2">Expand NY</a> Nov 9-10!</p>
+
+<a href="/expand/tickets/?ncid=hp3" class="button">Buy Tickets</a>
+
+</div>
+
+<style>
+	.expand-banner p {
+		font-size: 12px;
+	}
+</style> 
+	 
+</div>
+
+<!-- Page wrapper -->
+<div id="page" class="container ">
+	<!-- Page body -->
+	<div id="body">
+		 
+		 
+		 
+		 
+		<!-- M:header-carousel. -->
+<div id="carousel">
+<ul><li class="always top2">
+<a href="http://www.engadget.com/2013/06/23/the-after-math-samsungs-big-premiere-and-instagram-dabbles/" onclick="_gaq.push(['_trackEvent', 'Homepage DL', 'Click', 'Article 0']);">
+<img src="http://www.blogcdn.com/www.engadget.com/media/2013/06/aftermathsamsung_320x170.jpg">
+<span class="headline">The After Math: Samsung's big Premiere and Instagram's video debut</span>
+</a></li>
+<li class="always top2">
+<a href="http://www.engadget.com/2013/06/22/acer-aspire-p3-review/" onclick="_gaq.push(['_trackEvent', 'Homepage DL', 'Click', 'Article 1']);">
+<img src="http://www.blogcdn.com/www.engadget.com/media/2013/06/dsc06805-1371836249_320x170.jpg">
+<span class="headline">Acer Aspire P3 review: a nice enough tablet, but wait for the refresh</span>
+</a></li>
+<li class="always">
+<a href="http://www.engadget.com/2013/06/21/engadget-podcast-349-06-21-13/" onclick="_gaq.push(['_trackEvent', 'Homepage DL', 'Click', 'Article 2']);">
+<img src="http://www.blogcdn.com/www.engadget.com/media/2012/12/eng-podcast-620_320x170.jpg">
+<span class="headline">Engadget Podcast 349 - 06.21.13</span>
+</a></li>
+<li class="always">
+<a href="http://www.engadget.com/2013/06/21/life-after-kinect-primesense-post-microsoft/" onclick="_gaq.push(['_trackEvent', 'Homepage DL', 'Click', 'Article 3']);">
+<img src="http://www.blogcdn.com/www.engadget.com/media/2013/06/primesenseinteractionsronengoldman1_320x170.jpg">
+<span class="headline">Life after Kinect: PrimeSense's plans for a post-Microsoft future</span>
+</a></li>
+<li class="always last">
+<a href="http://www.engadget.com/2013/06/21/engadget-questionnaire-htc-creative-director-daniel-hundt/" onclick="_gaq.push(['_trackEvent', 'Homepage DL', 'Click', 'Article 4']);">
+<img src="http://www.blogcdn.com/www.engadget.com/media/2013/06/untitled-1-1371757143_320x170.jpg">
+<span class="headline">HTC Creative Director Daniel Hundt on the first-gen iPod, Leica M8 and the quandary of constant social connectivity</span>
+</a></li>
+</ul>
+</div>
+<!-- /M --> 
+		<!-- M:body-posts -->
+<article itemscope itemtype="http://schema.org/BlogPosting" id="post-20632691" class="post  small-leadin" role="article" data-image="http://www.blogcdn.com/www.engadget.com/media/2013/06/garminmonterra.jpg">
+	<header class="post-header">
+		<div class="top">
+
+			<div class="headline">
+				<h2 class="h2" itemprop="headline"><a itemprop="url" href="http://www.engadget.com/2013/06/24/garmin-monterra-android-gps/">Garmin Monterra handheld GPS runs Android, ships in Q3 for $650</a>
+
+
+
+
+
+
+
+</h2>
+			</div>
+
+			<p class="info">
+				<span class="byline" itemprop="author">
+					By
+					<strong><a href="http://www.engadget.com/about/editors/zach-honig">Zach Honig</a></strong>
+					posted
+					<span class="time">Jun 24th 2013 9:44AM</span>
+				</span>
+
+				<span class="comment-count"><a href="http://www.engadget.com/2013/06/24/garmin-monterra-android-gps/#comments"><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20632691" itemprop="interactionCount">0</span></a>
+					<a href="http://www.engadget.com/2013/06/24/garmin-monterra-android-gps/#comments"><i class="s-comment-bubble-black-12"></i></a>
+				</span>
+			</p>
+
+		</div>
+	</header><!-- /.post-header -->
+
+	<div class="post-body">
+		<div class="copy" itemprop="text">
+			<p class="p1 image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/24/garmin-monterra-android-gps/"><img alt="Garmin's featurepacked Monterra handheld GPS runs Android, ships in Q3 for $650" data-src-height="412" data-src-width="619" src='http://o.aolcdn.com/js/x.gif' data-original="http://www.blogcdn.com/www.engadget.com/media/2013/06/garminmonterra.jpg" /></a></p>
+
+<p class="p1">This <em>technically</em> isn't Garmin's first foray <a href="http://www.engadget.com/2010/05/18/garmin-asus-garminfone-review/">into Android territory</a>, but it could prove to be one of the most successful. The <a href="http://www.engadget.com/tag/garmin">navigation company's</a> just introduced Monterra, a dedicated handheld <a href="http://www.engadget.com/topics/gps/">GPS</a> running a TBA version of Android. Basic specs are in line with what you'd expect from a mid-range smartphone, including a 4-inch touchscreen, an 8-megapixel camera with flash and geotag support, 1080p video capture, 6GB of internal storage and microSD expansion. Naturally, the display is optimized for outdoor use -- it's transflective, so you only need to use the LED backlight in low light, letting you conserve power during daytime river treks and sunlit hikes.</p>
+
+<p class="p1">The device is ruggedized, with an IPX7 waterproof rating, and can run on either a rechargeable battery pack (included) or AA batteries. It includes WiFi, <a href="http://www.engadget.com/tag/ANT/">ANT+</a>, Bluetooth 3.0, NFC, a built-in FM radio with NOAA weather and SAME alerts, dual-band GPS and GLONASS receiver, a 3-axis compass with accelerometer and gyro, a UV sensor for monitoring the sun's intensity and a barometric altimeter, which can report altitude and predict weather based on pressure shifts. There's also a handful of preinstalled apps designed to take advantage of this plethora of connectivity, including Europe PeakFinder, or you can download favorites from Google Play -- anything from farming aids to efficiency trackers can utilize many of Monterra's bundled sensors. The device is expected to ship in Q3, and should run you about $650 in the US or &pound;600 in the UK.</p>
+
+			<p class="read-more">
+			<a href="http://www.engadget.com/2013/06/24/garmin-monterra-android-gps/#continued"><strong>Read the Full Story</strong></a> |
+			<a href="http://www.engadget.com/2013/06/24/garmin-monterra-android-gps/#comments"><strong><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20632691">0</span>&nbsp;Comments</strong></a>
+			</P>
+		</div>
+	<div class="post-meta">
+		<div class="meta-asides">
+			<aside class="meta-sources">
+				
+				<p><strong>Source:</strong> <a target="_blank" href="http://garmin.blogs.com/my_weblog/2013/06/introducing-monterra-new-garmin-outdoor-handheld-with-android-os.html#.UchLEvb71OQ">Garmin</a><!--//--></p>
+			</aside>
+
+			<aside class="meta-social">
+		<a class="aol-share-placeholder" data-bid="21" data-pid="20632691" href="mailto:yourfriend@email.com?subject=Garmin+Monterra+handheld+GPS+runs+Android%2C+ships+in+Q3+for+%24650&body=http://www.engadget.com/2013/06/24/garmin-monterra-android-gps/" title="Garmin Monterra handheld GPS runs Android, ships in Q3 for $650"></a>
+			</aside>
+		</div>
+	</div><!-- /.post-meta -->
+
+	</div><!-- /.post-body -->
+
+</article><!-- /.post --><article itemscope itemtype="http://schema.org/BlogPosting" id="post-20632495" class="post  " role="article" data-image="http://www.blogcdn.com/www.engadget.com/media/2013/06/burjgoogle-1372076437.jpg">
+	<header class="post-header">
+		<div class="top">
+
+			<div class="headline">
+				<h2 class="h2" itemprop="headline"><a itemprop="url" href="http://www.engadget.com/2013/06/24/street-view-burj-khalifa/">Watch how Google brought Street View to the Burj Khalifa (video)</a>
+
+
+
+
+
+
+
+</h2>
+			</div>
+
+			<p class="info">
+				<span class="byline" itemprop="author">
+					By
+					<strong><a href="http://www.engadget.com/about/editors/daniel-cooper">Daniel Cooper</a></strong>
+					posted
+					<span class="time">Jun 24th 2013 9:33AM</span>
+				</span>
+
+				<span class="comment-count"><a href="http://www.engadget.com/2013/06/24/street-view-burj-khalifa/#comments"><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20632495" itemprop="interactionCount">0</span></a>
+					<a href="http://www.engadget.com/2013/06/24/street-view-burj-khalifa/#comments"><i class="s-comment-bubble-black-12"></i></a>
+				</span>
+			</p>
+
+		</div>
+	</header><!-- /.post-header -->
+
+	<div class="post-body">
+		<div class="copy" itemprop="text">
+			<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/24/street-view-burj-khalifa/"><img alt="Google Street View comes to the Burj Khalifa video" data-src-height="340" data-src-width="620" src='http://o.aolcdn.com/js/x.gif' data-original="http://www.blogcdn.com/www.engadget.com/media/2013/06/burjgoogle-1372076437.jpg" /></a></p>
+
+<p><a href="http://www.engadget.com/2013/06/13/google-street-view-new-destinations/">Street View's</a> fine for navigation, but we're sure plenty more people use it just for their armchair tourism. Google has now turned its attention to giving thrill-seekers a chance to gaze out from the top of Dubai's Burj Khalifa, the world's tallest building. Using <a href="http://www.engadget.com/2012/06/06/google-shows-off-new-backpack-worn-street-view-capture-tool/">Trekker backpacks</a> and trolleys, it took the Googlers three days to capture the images from both the viewing gallery on the 124th floor and the window cleaning gantry on the 80th. Curious to experience some of that vertigo for yourself? Video's after the break.</p>
+
+			<p class="read-more">
+			<a href="http://www.engadget.com/2013/06/24/street-view-burj-khalifa/#continued"><strong>Read the Full Story</strong></a> |
+			<a href="http://www.engadget.com/2013/06/24/street-view-burj-khalifa/#comments"><strong><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20632495">0</span>&nbsp;Comments</strong></a>
+			</P>
+		</div>
+	<div class="post-meta">
+		<div class="meta-asides">
+			<aside class="meta-sources">
+				<p><strong>Via:</strong> <a href="http://googleblog.blogspot.co.uk/2013/06/experience-stunning-new-heights-with.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed" target="_blank">Official Google Blog</a><!--//--></p>
+				<p><strong>Source:</strong> <a href="http://www.google.ae/intl/en/help/maps/streetview/gallery/burj-khalifa/burj-khalifa-at-the-top-observation-deck-entrance-ground-floor.html" target="_blank">Google Street View</a><!--//--></p>
+			</aside>
+
+			<aside class="meta-social">
+		<a class="aol-share-placeholder" data-bid="21" data-pid="20632495" href="mailto:yourfriend@email.com?subject=Watch+how+Google+brought+Street+View+to+the+Burj+Khalifa+%28video%29&body=http://www.engadget.com/2013/06/24/street-view-burj-khalifa/" title="Watch how Google brought Street View to the Burj Khalifa (video)"></a>
+			</aside>
+		</div>
+	</div><!-- /.post-meta -->
+
+	</div><!-- /.post-body -->
+
+</article><!-- /.post --><article itemscope itemtype="http://schema.org/BlogPosting" id="post-20630290" class="post  small-leadin" role="article" data-image="http://www.blogcdn.com/www.engadget.com/media/2013/06/imgur-android.jpg">
+	<header class="post-header">
+		<div class="top">
+
+			<div class="headline">
+				<h2 class="h2" itemprop="headline"><a itemprop="url" href="http://www.engadget.com/2013/06/24/imgur-android-app/">Imgur's Android app distracts you with cute kittens on the go</a>
+
+
+
+&nbsp;<a href="http://www.engadget.com/topics/mobile" class="s-cat-mobile">Mobile</a>
+
+
+
+</h2>
+			</div>
+
+			<p class="info">
+				<span class="byline" itemprop="author">
+					By
+					<strong><a href="http://www.engadget.com/about/editors/mariella-moon">Mariella Moon</a></strong>
+					posted
+					<span class="time">Jun 24th 2013 9:15AM</span>
+				</span>
+
+				<span class="comment-count"><a href="http://www.engadget.com/2013/06/24/imgur-android-app/#comments"><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20630290" itemprop="interactionCount">0</span></a>
+					<a href="http://www.engadget.com/2013/06/24/imgur-android-app/#comments"><i class="s-comment-bubble-black-12"></i></a>
+				</span>
+			</p>
+
+		</div>
+	</header><!-- /.post-header -->
+
+	<div class="post-body">
+		<div class="copy" itemprop="text">
+			<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/24/imgur-android-app/"><img alt="DNP Imgur Android app" data-src-height="356" data-src-width="619" src='http://o.aolcdn.com/js/x.gif' data-original="http://www.blogcdn.com/www.engadget.com/media/2013/06/imgur-android.jpg" /></a></p>
+
+<p>Imgur, a reservoir of viral photos, <a href="http://www.engadget.com/2013/03/19/google-gif-search-filter/">adorable kittens</a> and <a href="http://www.engadget.com/2010/06/22/keanu-reeves-gets-a-url-shortener-in-his-honor-can-stop-being-s/">vapid memes</a>, is going mobile: it's releasing an official Android app today. Technically, the app has been floating around Google Play since April, albeit in beta form. The final build allows users to view and comment on photos, as well as to upload their own -- basically everything the service's full website offers. Read on for the company's full press release, or check out the source link below to fuel your mindless addiction.</p>
+
+			<p class="read-more">
+			<a href="http://www.engadget.com/2013/06/24/imgur-android-app/#continued"><strong>Read the Full Story</strong></a> |
+			<a href="http://www.engadget.com/2013/06/24/imgur-android-app/#comments"><strong><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20630290">0</span>&nbsp;Comments</strong></a>
+			</P>
+		</div>
+	<div class="post-meta">
+		<div class="meta-asides">
+			<aside class="meta-sources">
+				
+				<p><strong>Source:</strong> <a href="https://play.google.com/store/apps/details?id=com.imgur.mobile" target="_blank">Google Play</a><!--//--></p>
+			</aside>
+
+			<aside class="meta-social">
+		<a class="aol-share-placeholder" data-bid="21" data-pid="20630290" href="mailto:yourfriend@email.com?subject=Imgur%27s+Android+app+distracts+you+with+cute+kittens+on+the+go&body=http://www.engadget.com/2013/06/24/imgur-android-app/" title="Imgur's Android app distracts you with cute kittens on the go"></a>
+			</aside>
+		</div>
+	</div><!-- /.post-meta -->
+
+	</div><!-- /.post-body -->
+
+</article><!-- /.post --><article itemscope itemtype="http://schema.org/BlogPosting" id="post-20632455" class="post  small-leadin" role="article" data-image="http://www.blogcdn.com/www.engadget.com/media/2013/06/sgt310.jpg">
+	<header class="post-header">
+		<div class="top">
+
+			<div class="headline">
+				<h2 class="h2" itemprop="headline"><a itemprop="url" href="http://www.engadget.com/2013/06/24/samsung-galaxy-tab-3-7-0-8-0-and-10-1-release-date-pricing/">Samsung Galaxy Tab 3 series to hit US on July 7, prices start at $199</a>
+
+
+
+
+
+
+
+</h2>
+			</div>
+
+			<p class="info">
+				<span class="byline" itemprop="author">
+					By
+					<strong><a href="http://www.engadget.com/about/editors/mat-smith">Mat Smith</a></strong>
+					posted
+					<span class="time">Jun 24th 2013 9:00AM</span>
+				</span>
+
+				<span class="comment-count"><a href="http://www.engadget.com/2013/06/24/samsung-galaxy-tab-3-7-0-8-0-and-10-1-release-date-pricing/#comments"><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20632455" itemprop="interactionCount">0</span></a>
+					<a href="http://www.engadget.com/2013/06/24/samsung-galaxy-tab-3-7-0-8-0-and-10-1-release-date-pricing/#comments"><i class="s-comment-bubble-black-12"></i></a>
+				</span>
+			</p>
+
+		</div>
+	</header><!-- /.post-header -->
+
+	<div class="post-body">
+		<div class="copy" itemprop="text">
+			<p><a href="http://www.engadget.com/2013/06/24/samsung-galaxy-tab-3-7-0-8-0-and-10-1-release-date-july/"><img alt="Samsung Galaxy Tab 3 70, 80 and 101 to launch on July 7 priced at $199, $299 and $399" data-src-height="271" data-src-width="620" src='http://o.aolcdn.com/js/x.gif' data-original="http://www.blogcdn.com/www.engadget.com/media/2013/06/sgt310.jpg" /></a></p>
+
+<p>Not to be forgotten amid other <a href="http://www.engadget.com/2013/06/20/samsung-premiere-2013-liveblog/">new Samsung products</a>, the company has announced that its complete Galaxy Tab 3 line-up will arrive in the US next month. The tablet family launches in the US on July 7,  with all three screensizes (7-, 8- and 10.1 inches) will be available from Best Buy, Amazon, Wal-Mart, Office Depot, other bricks-and-mortar retailers and Samsung's own online store. <span>As a refresher, </span><span>the entry-level </span><a href="http://www.engadget.com/2013/04/29/samsung-galaxy-tab-3-announced-may-release-date/">Galaxy Tab 3 7.0</a><span> i</span><span>s priced up at $199 and sports a dual-core 1.2GHz processor, 8GB of storage (plus microSD expansion)</span><span>, and a 7-inch 1,024 x 600 </span><span>TFT display. There's Android Jelly Bean (4.1) from the outset, as well as the Samsung's apps and built-in hubs. </span></p>
+
+<p>Increasing the screen to eight inches, the <a href="http://www.engadget.com/2013/06/03/samsung-galaxy-tab-3/">Galaxy Tab 3 8.0</a> ($299), bumps up the specifications elsewhere too, with a more potent Exynos 1.5GHz dual-core processor, and higher-resolution (1,280 x 800) TFT display. It's got the very latest Android build (4.2), as well as a rear-facing 5-megapixel camera capable of 720p video capture. Storage is also doubled to 16GB, with extra space available through microSD and 1.5GB of RAM to keep apps running smoothly</p>
+
+<p>Finally, there's the Galaxy Tab 3 10.1 ($399), which packs an <a href="http://www.engadget.com/2013/05/31/samsung-intel-galaxy-tab/">Intel Z2560 processor</a> (1.6GHz dual-core) and the same resolution as the Tab 3 8.0, albeit stretched a little further. It also matches the smaller model on storage and camera specs, although RAM has inexplicably dropped to just a single gig. The larger model does include a built-in IR blaster, however, as well as Samsung's WatchON TV recommendation service. All three WiFi-only models will arrive in white and a previously-leaked <a href="http://www.engadget.com/2013/06/09/samsung-galaxy-tab-3-7-0-and-8-0-spotted-in-golden-brown-hues/">gold brown</a> hue -- preorders start tomorrow. <span><div id="gallery-192164-placeholder"></div>
+<script>when.eng("eng.list.gallery", {id:"192164",headline: "Samsung Galaxy Tab 3 family",total:"17",url:"http://www.engadget.com/gallery/samsung-galaxy-tab-3-family",rows:[{url:"http://www.engadget.com/gallery/samsung-galaxy-tab-3-family/5984893",img:"http://www.blogcdn.com/www.engadget.com/media/2013/06/gtab3sm-t210002backbrownmat_94x94.jpg"},{url:"http://www.engadget.com/gallery/samsung-galaxy-tab-3-family/5984894",img:"http://www.blogcdn.com/www.engadget.com/media/2013/06/gtab3sm-t210003dynamicbrownmat_94x94.jpg"},{url:"http://www.engadget.com/gallery/samsung-galaxy-tab-3-family/5984895",img:"http://www.blogcdn.com/www.engadget.com/media/2013/06/gtab3whitegalaxy-tab-3-7-backmat_94x94.jpg"},{url:"http://www.engadget.com/gallery/samsung-galaxy-tab-3-family/5984896",img:"http://www.blogcdn.com/www.engadget.com/media/2013/06/gtab3whitegalaxy-tab-3-7-frontmat_94x94.jpg"},{url:"http://www.engadget.com/gallery/samsung-galaxy-tab-3-family/5984897",img:"http://www.blogcdn.com/www.engadget.com/media/2013/06/gtab3whitegalaxy-tab-3-7-sidemat_94x94.jpg"},{url:"http://www.engadget.com/gallery/samsung-galaxy-tab-3-family/5984898",img:"http://www.blogcdn.com/www.engadget.com/media/2013/06/gtab3sm-t210001frontbrownmat_94x94.jpg"},null]})</script></span></p>
+
+			<p class="read-more">
+			<a href="http://www.engadget.com/2013/06/24/samsung-galaxy-tab-3-7-0-8-0-and-10-1-release-date-pricing/#continued"><strong>Read the Full Story</strong></a> |
+			<a href="http://www.engadget.com/2013/06/24/samsung-galaxy-tab-3-7-0-8-0-and-10-1-release-date-pricing/#comments"><strong><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20632455">0</span>&nbsp;Comments</strong></a>
+			</P>
+		</div>
+	<div class="post-meta">
+		<div class="meta-asides">
+			<aside class="meta-sources">
+				
+				
+			</aside>
+
+			<aside class="meta-social">
+		<a class="aol-share-placeholder" data-bid="21" data-pid="20632455" href="mailto:yourfriend@email.com?subject=Samsung+Galaxy+Tab+3+series+to+hit+US+on+July+7%2C+prices+start+at+%24199&body=http://www.engadget.com/2013/06/24/samsung-galaxy-tab-3-7-0-8-0-and-10-1-release-date-pricing/" title="Samsung Galaxy Tab 3 series to hit US on July 7, prices start at $199"></a>
+			</aside>
+		</div>
+	</div><!-- /.post-meta -->
+
+	</div><!-- /.post-body -->
+
+</article><!-- /.post --><article itemscope itemtype="http://schema.org/BlogPosting" id="post-20632601" class="post  small-leadin" role="article" data-image="http://www.blogcdn.com/www.engadget.com/media/2013/06/bingforschools619pxhedimg.jpg">
+	<header class="post-header">
+		<div class="top">
+
+			<div class="headline">
+				<h2 class="h2" itemprop="headline"><a itemprop="url" href="http://www.engadget.com/2013/06/24/bing-for-schools/">'Bing for Schools' tailors Microsoft's search engine to K-12, cuts ads and filters adult content</a>
+
+
+
+
+
+
+
+</h2>
+			</div>
+
+			<p class="info">
+				<span class="byline" itemprop="author">
+					By
+					<strong><a href="http://www.engadget.com/about/editors/ben-gilbert">Ben Gilbert</a></strong>
+					posted
+					<span class="time">Jun 24th 2013 8:56AM</span>
+				</span>
+
+				<span class="comment-count"><a href="http://www.engadget.com/2013/06/24/bing-for-schools/#comments"><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20632601" itemprop="interactionCount">0</span></a>
+					<a href="http://www.engadget.com/2013/06/24/bing-for-schools/#comments"><i class="s-comment-bubble-black-12"></i></a>
+				</span>
+			</p>
+
+		</div>
+	</header><!-- /.post-header -->
+
+	<div class="post-body">
+		<div class="copy" itemprop="text">
+			<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/24/bing-for-schools/"><img alt="'Bing for Schools' tailors Microsoft's search engine to K12, cuts ads and filters adult content" data-src-height="195" data-src-width="619" src='http://o.aolcdn.com/js/x.gif' data-original="http://www.blogcdn.com/www.engadget.com/media/2013/06/bingforschools619pxhedimg.jpg" /></a></p>
+
+<p>Microsoft's <a href="http://www.engadget.com/tag/bing">Bing</a> is headed to the classroom in a more targeted form, with Redmond announcing this morning a new version of the engine dubbed, "Bing for Schools." The initiative takes the standard Bing search engine and cuts all adverts in search, filters "adult content" (the specifications of that are murky) adds more privacy protection, and adds, "specialized learning features to enhance digital literacy." Schools can opt-in on a per-case basis, and opting-in will enable the specialized version of Bing on an entire school's network. The program's kicking off "later this year," and interested parties can put their name in the hat <a href="http://www.bing.com/schools">right here</a> -- should you like to see the full note introducing Bing for Schools from Microsoft's Bing Behavioral Scientist Matt Wallaert, we've dropped it just beyond the break.</p>
+
+			<p class="read-more">
+			<a href="http://www.engadget.com/2013/06/24/bing-for-schools/#continued"><strong>Read the Full Story</strong></a> |
+			<a href="http://www.engadget.com/2013/06/24/bing-for-schools/#comments"><strong><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20632601">0</span>&nbsp;Comments</strong></a>
+			</P>
+		</div>
+	<div class="post-meta">
+		<div class="meta-asides">
+			<aside class="meta-sources">
+				
+				<p><strong>Source:</strong> <a target="_blank" href="http://www.bing.com/blogs/site_blogs/b/search/archive/2013/06/24/bing-for-schools.aspx">Microsoft</a><!--//-->, <a target="_blank" href="http://www.bing.com/schools">Bing for Schools</a><!--//--></p>
+			</aside>
+
+			<aside class="meta-social">
+		<a class="aol-share-placeholder" data-bid="21" data-pid="20632601" href="mailto:yourfriend@email.com?subject=%27Bing+for+Schools%27+tailors+Microsoft%27s+search+engine+to+K-12%2C+cuts+ads+and+filters+adult+content&body=http://www.engadget.com/2013/06/24/bing-for-schools/" title="'Bing for Schools' tailors Microsoft's search engine to K-12, cuts ads and filters adult content"></a>
+			</aside>
+		</div>
+	</div><!-- /.post-meta -->
+
+	</div><!-- /.post-body -->
+
+</article><!-- /.post --><article itemscope itemtype="http://schema.org/BlogPosting" id="post-20632382" class="post  " role="article" data-image="http://www.blogcdn.com/www.engadget.com/media/2013/06/telefonica-three-ireland-2013-06-24-01.jpg">
+	<header class="post-header">
+		<div class="top">
+
+			<div class="headline">
+				<h2 class="h2" itemprop="headline"><a itemprop="url" href="http://www.engadget.com/2013/06/24/telefonica-sells-its-irish-mobile-business-to-three/">Telefonica to sell its Irish operations to Three for $1.1 billion</a>
+
+
+
+
+
+
+
+</h2>
+			</div>
+
+			<p class="info">
+				<span class="byline" itemprop="author">
+					By
+					<strong><a href="http://www.engadget.com/about/editors/steve-dent">Steve Dent</a></strong>
+					posted
+					<span class="time">Jun 24th 2013 8:37AM</span>
+				</span>
+
+				<span class="comment-count"><a href="http://www.engadget.com/2013/06/24/telefonica-sells-its-irish-mobile-business-to-three/#comments"><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20632382" itemprop="interactionCount">0</span></a>
+					<a href="http://www.engadget.com/2013/06/24/telefonica-sells-its-irish-mobile-business-to-three/#comments"><i class="s-comment-bubble-black-12"></i></a>
+				</span>
+			</p>
+
+		</div>
+	</header><!-- /.post-header -->
+
+	<div class="post-body">
+		<div class="copy" itemprop="text">
+			<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/24/telefonica-sells-its-irish-mobile-business-to-three/"><img alt="Telefonica sells its Irish mobile business to Three for $11 billion" data-src-height="340" data-src-width="620" src='http://o.aolcdn.com/js/x.gif' data-original="http://www.blogcdn.com/www.engadget.com/media/2013/06/telefonica-three-ireland-2013-06-24-01.jpg" /></a></p>
+
+<p>Think you're carrying a tad too much debt? By contrast, Spain's telecom giant <a href="http://www.engadget.com/tag/Telefonica/">Telef&oacute;nica</a> wants to reduce its red ink to 47 billion euros ($62 billion) by the end of the year, so it's decided to sell its Irish mobile and broadband business to <a href="http://www.engadget.com/tag/Hutchison/">Hutchison Whampoa's</a> <a href="http://www.engadget.com/2013/02/03/threeuk-lte-price-pledge/">Three</a> for 850 million euros ($1.1 billion). If regulators approve the deal, it'll let Telef&oacute;nica hack about 750 million euros of debt from its books, while giving Three a 37.5 percent share of the nation's mobile business and a strong number two position behind Vodafone. The deal follows a &pound;200 million ($273 million) <a href="http://www.engadget.com/2013/03/01/sky-telefonica-uk-acquisition/">sale</a> of Telef&oacute;nica's fixed phone line business to Sky, and considering the whopping level of debt, may be just a start.</p>
+
+<p>[Image credit: Wikimedia Commons]</p>
+
+			<p class="read-more">
+			<a href="http://www.engadget.com/2013/06/24/telefonica-sells-its-irish-mobile-business-to-three/#continued"><strong>Read the Full Story</strong></a> |
+			<a href="http://www.engadget.com/2013/06/24/telefonica-sells-its-irish-mobile-business-to-three/#comments"><strong><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20632382">0</span>&nbsp;Comments</strong></a>
+			</P>
+		</div>
+	<div class="post-meta">
+		<div class="meta-asides">
+			<aside class="meta-sources">
+				<p><strong>Via:</strong> <a href="http://online.wsj.com/article/SB10001424127887323683504578564810388966952.html" target="_blank">WSJ (subscription)</a><!--//--></p>
+				
+			</aside>
+
+			<aside class="meta-social">
+		<a class="aol-share-placeholder" data-bid="21" data-pid="20632382" href="mailto:yourfriend@email.com?subject=Telefonica+to+sell+its+Irish+operations+to+Three+for+%241.1+billion&body=http://www.engadget.com/2013/06/24/telefonica-sells-its-irish-mobile-business-to-three/" title="Telefonica to sell its Irish operations to Three for $1.1 billion"></a>
+			</aside>
+		</div>
+	</div><!-- /.post-meta -->
+
+	</div><!-- /.post-body -->
+
+</article><!-- /.post --><article itemscope itemtype="http://schema.org/BlogPosting" id="post-20632387" class="post  " role="article" data-image="http://www.blogcdn.com/www.engadget.com/media/2013/06/padd.jpg">
+	<header class="post-header">
+		<div class="top">
+
+			<div class="headline">
+				<h2 class="h2" itemprop="headline"><a itemprop="url" href="http://www.engadget.com/2013/06/24/lovefim-star-trek-cbs-shows-uk-germany/">Lovefilm bringing Star Trek, other CBS shows to the UK and Germany</a>
+
+
+&nbsp;<a href="http://www.engadget.com/topics/hd" class="s-cat-hd">HD</a>
+
+
+</h2>
+			</div>
+
+			<p class="info">
+				<span class="byline" itemprop="author">
+					By
+					<strong><a href="http://www.engadget.com/about/editors/daniel-cooper">Daniel Cooper</a></strong>
+					posted
+					<span class="time">Jun 24th 2013 8:09AM</span>
+				</span>
+
+				<span class="comment-count"><a href="http://www.engadget.com/2013/06/24/lovefim-star-trek-cbs-shows-uk-germany/#comments"><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20632387" itemprop="interactionCount">0</span></a>
+					<a href="http://www.engadget.com/2013/06/24/lovefim-star-trek-cbs-shows-uk-germany/#comments"><i class="s-comment-bubble-black-12"></i></a>
+				</span>
+			</p>
+
+		</div>
+	</header><!-- /.post-header -->
+
+	<div class="post-body">
+		<div class="copy" itemprop="text">
+			<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/24/lovefim-star-trek-cbs-shows-uk-germany/"><img alt="Lovefilm bringing Star Trek, other CBS shows to the UK and Germany" data-src-height="340" data-src-width="620" src='http://o.aolcdn.com/js/x.gif' data-original="http://www.blogcdn.com/www.engadget.com/media/2013/06/padd.jpg" /></a></p>
+
+<p>CBS may have teamed up with <a href="http://www.engadget.com/2011/04/08/star-trek-series-coming-to-netflix-watch-instantly-in-july-an/">Netflix in the US</a> to satisfy those of us with an <em><a href="http://www.engadget.com/2013/05/07/3d-systems-star-trek/">Enterprising bent</a></em>, but the company has taken a different tack in the UK and Germany. Instead, the firm has signed a deal with <a href="http://www.engadget.com/2013/01/16/lovefilm-uk-nbc-tv-deal/">Lovefilm</a> to bring CBS and Showtime-owned shows to Amazon's streaming network. The press release promises that users will be able to watch classic <em>Star Trek, Voyager, The Good Wife, Dexter</em> and <em>Californication</em> instantly, although a brief check of the UK site reveals that you may need to wait a short while more before you can immerse yourself in the Delta quadrant / Hank Moody's psyche.</p>
+
+			<p class="read-more">
+			<a href="http://www.engadget.com/2013/06/24/lovefim-star-trek-cbs-shows-uk-germany/#continued"><strong>Read the Full Story</strong></a> |
+			<a href="http://www.engadget.com/2013/06/24/lovefim-star-trek-cbs-shows-uk-germany/#comments"><strong><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20632387">0</span>&nbsp;Comments</strong></a>
+			</P>
+		</div>
+	<div class="post-meta">
+		<div class="meta-asides">
+			<aside class="meta-sources">
+				
+				
+			</aside>
+
+			<aside class="meta-social">
+		<a class="aol-share-placeholder" data-bid="21" data-pid="20632387" href="mailto:yourfriend@email.com?subject=Lovefilm+bringing+Star+Trek%2C+other+CBS+shows+to+the+UK+and+Germany&body=http://www.engadget.com/2013/06/24/lovefim-star-trek-cbs-shows-uk-germany/" title="Lovefilm bringing Star Trek, other CBS shows to the UK and Germany"></a>
+			</aside>
+		</div>
+	</div><!-- /.post-meta -->
+
+	</div><!-- /.post-body -->
+
+</article><!-- /.post --><article itemscope itemtype="http://schema.org/BlogPosting" id="post-20632428" class="post  small-leadin" role="article" data-image="http://www.blogcdn.com/www.engadget.com/media/2013/06/sugar-invitation.jpg">
+	<header class="post-header">
+		<div class="top">
+
+			<div class="headline">
+				<h2 class="h2" itemprop="headline"><a itemprop="url" href="http://www.engadget.com/2013/06/24/swarovski-sugar-phones-tablets/">Swarovski to launch crystal-studded devices under Sugar brand in July?</a>
+
+
+
+&nbsp;<a href="http://www.engadget.com/topics/mobile" class="s-cat-mobile">Mobile</a>
+
+
+
+</h2>
+			</div>
+
+			<p class="info">
+				<span class="byline" itemprop="author">
+					By
+					<strong><a href="http://www.engadget.com/about/editors/richard-lai">Richard Lai</a></strong>
+					posted
+					<span class="time">Jun 24th 2013 7:52AM</span>
+				</span>
+
+				<span class="comment-count"><a href="http://www.engadget.com/2013/06/24/swarovski-sugar-phones-tablets/#comments"><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20632428" itemprop="interactionCount">0</span></a>
+					<a href="http://www.engadget.com/2013/06/24/swarovski-sugar-phones-tablets/#comments"><i class="s-comment-bubble-black-12"></i></a>
+				</span>
+			</p>
+
+		</div>
+	</header><!-- /.post-header -->
+
+	<div class="post-body">
+		<div class="copy" itemprop="text">
+			<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/24/swarovski-sugar-phones-tablets/"><img alt="Image" data-src-height="413" data-src-width="619" src='http://o.aolcdn.com/js/x.gif' data-original="http://www.blogcdn.com/www.engadget.com/media/2013/06/sugar-invitation.jpg" /></a></p>
+
+<p>Ah, what better way to start off the week than by deciphering a cryptic message. Earlier today we received the above image from a mysterious company called Sugar, and that's all there really is: some crystals in a candy wrapper, the tag line "The sweetest thing that you've never tasted before" (the Chinese counterpart implies "irresistible sweetness"), plus the words "July. Austria. Wattens. Unlock." along the bottom.</p>
+
+<p>As it turns out, Wattens is where the famed <a href="http://www.engadget.com/tag/swarovski/">Swarovski</a> is based, so we're going to assume this has something to do with the Austrian crystal maker. As for the "unlock" part, perhaps Swarovski is going to launch its very own bejeweled smartphones or even tablets under the Sugar brand next month? Whatever they are, hopefully they won't be as <a href="http://www.engadget.com/2010/01/09/crapgadget-ces-part-2-moneuals-45k-htpc/">tacky</a> as what we've seen in the past. The sweetness would be a bonus, too.</p>
+
+			<p class="read-more">
+			
+			<a href="http://www.engadget.com/2013/06/24/swarovski-sugar-phones-tablets/#comments"><strong><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20632428">0</span>&nbsp;Comments</strong></a>
+			</P>
+		</div>
+	<div class="post-meta">
+		<div class="meta-asides">
+			<aside class="meta-sources">
+				
+				
+			</aside>
+
+			<aside class="meta-social">
+		<a class="aol-share-placeholder" data-bid="21" data-pid="20632428" href="mailto:yourfriend@email.com?subject=Swarovski+to+launch+crystal-studded+devices+under+Sugar+brand+in+July%3F&body=http://www.engadget.com/2013/06/24/swarovski-sugar-phones-tablets/" title="Swarovski to launch crystal-studded devices under Sugar brand in July?"></a>
+			</aside>
+		</div>
+	</div><!-- /.post-meta -->
+
+	</div><!-- /.post-body -->
+
+</article><!-- /.post --><article itemscope itemtype="http://schema.org/BlogPosting" id="post-20632362" class="post  " role="article" data-image="http://www.blogcdn.com/www.engadget.com/media/2012/12/sharp-igzo.jpg">
+	<header class="post-header">
+		<div class="top">
+
+			<div class="headline">
+				<h2 class="h2" itemprop="headline"><a itemprop="url" href="http://www.engadget.com/2013/06/24/qualcomm-120-million-investment-in-sharp-complete/">Qualcomm finishes $120 million investment in Sharp, becomes third-largest investor</a>
+
+
+
+
+
+
+
+</h2>
+			</div>
+
+			<p class="info">
+				<span class="byline" itemprop="author">
+					By
+					<strong><a href="http://www.engadget.com/about/editors/mat-smith">Mat Smith</a></strong>
+					posted
+					<span class="time">Jun 24th 2013 7:28AM</span>
+				</span>
+
+				<span class="comment-count"><a href="http://www.engadget.com/2013/06/24/qualcomm-120-million-investment-in-sharp-complete/#comments"><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20632362" itemprop="interactionCount">0</span></a>
+					<a href="http://www.engadget.com/2013/06/24/qualcomm-120-million-investment-in-sharp-complete/#comments"><i class="s-comment-bubble-black-12"></i></a>
+				</span>
+			</p>
+
+		</div>
+	</header><!-- /.post-header -->
+
+	<div class="post-body">
+		<div class="copy" itemprop="text">
+			<p class="p1 image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/24/qualcomm-120-million-investment-in-sharp-complete/"><img alt="" src='http://o.aolcdn.com/js/x.gif' data-original="http://www.blogcdn.com/www.engadget.com/media/2012/12/sharp-igzo.jpg" /></a></p>
+
+<p class="p1">Chipmaker Qualcomm has finalized its investment in beleaguered display manufacturer <a href="http://www.engadget.com/tag/sharp/">Sharp</a>. Announced back in December 2012 and totaling $120 million, the second portion of the investment was delayed earlier this year when Sharp <a href="http://www.engadget.com/2013/03/18/sharp-will-miss-deadline-for-60m-qualcomm-investment/">failed to satisfy conditions</a> for the investment. Sharp's now confirmed the transaction, which gives Qualcomm a 3.53 percent share of the display maker, and will presumably increase its involvement on new screen tech <a href="http://www.engadget.com/2012/12/03/sharp-qualcomm-igzo-venture/">being developed</a> between the two companies. The combination of Qualcomm's MEMs display products and Sharp's high-resolution <a href="http://www.engadget.com/2013/06/05/sharp-3200-1800-igzo/">IGZO</a> screens will apparently make its way into a number of devices in varying sizes. Qualcomm isn't the only company with a vested interest in Sharp's recovery, either -- Samsung also holds a <a href="http://www.engadget.com/2013/03/06/sharp-may-be-close-to-receiving-a-110-million-boost-from-samsun/">3 percent stake</a>.</p>
+
+			<p class="read-more">
+			
+			<a href="http://www.engadget.com/2013/06/24/qualcomm-120-million-investment-in-sharp-complete/#comments"><strong><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20632362">0</span>&nbsp;Comments</strong></a>
+			</P>
+		</div>
+	<div class="post-meta">
+		<div class="meta-asides">
+			<aside class="meta-sources">
+				
+				<p><strong>Source:</strong> <a target="_blank" href="http://sharp-world.com/corporate/ir/topics/pdf/130624.pdf">Sharp (PDF)</a><!--//--></p>
+			</aside>
+
+			<aside class="meta-social">
+		<a class="aol-share-placeholder" data-bid="21" data-pid="20632362" href="mailto:yourfriend@email.com?subject=Qualcomm+finishes+%24120+million+investment+in+Sharp%2C+becomes+third-largest+investor&body=http://www.engadget.com/2013/06/24/qualcomm-120-million-investment-in-sharp-complete/" title="Qualcomm finishes $120 million investment in Sharp, becomes third-largest investor"></a>
+			</aside>
+		</div>
+	</div><!-- /.post-meta -->
+
+	</div><!-- /.post-body -->
+
+</article><!-- /.post --><article itemscope itemtype="http://schema.org/BlogPosting" id="post-20632162" class="post  small-leadin" role="article" data-image="http://www.blogcdn.com/www.engadget.com/media/2013/06/screen-shot-2013-06-24-at-12.17.36-am-1372047671.jpg">
+	<header class="post-header">
+		<div class="top">
+
+			<div class="headline">
+				<h2 class="h2" itemprop="headline"><a itemprop="url" href="http://www.engadget.com/2013/06/24/aol-reader-hands-on/">AOL Reader beta officially available for your RSS-perusing needs (hands-on)</a>
+
+
+
+
+&nbsp;<a href="http://www.engadget.com/tag/hands-on/" class="s-cat-handson">Hands-on</a>
+
+
+
+
+</h2>
+			</div>
+
+			<p class="info">
+				<span class="byline" itemprop="author">
+					By
+					<strong><a href="http://www.engadget.com/about/editors/joe-pollicino">Joe Pollicino</a></strong>
+					posted
+					<span class="time">Jun 24th 2013 7:00AM</span>
+				</span>
+
+				<span class="comment-count"><a href="http://www.engadget.com/2013/06/24/aol-reader-hands-on/#comments"><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20632162" itemprop="interactionCount">0</span></a>
+					<a href="http://www.engadget.com/2013/06/24/aol-reader-hands-on/#comments"><i class="s-comment-bubble-black-12"></i></a>
+				</span>
+			</p>
+
+		</div>
+	</header><!-- /.post-header -->
+
+	<div class="post-body">
+		<div class="copy" itemprop="text">
+			<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/24/aol-reader-hands-on/"><img alt="AOL Reader beta officially available for your RSSperusing needs handson" data-src-height="333" data-src-width="620" src='http://o.aolcdn.com/js/x.gif' data-original="http://www.blogcdn.com/www.engadget.com/media/2013/06/screen-shot-2013-06-24-at-12.17.36-am-1372047671.jpg" /></a></p>
+
+<p>Wondering how <a href="http://www.engadget.com/2013/06/21/aol-reader-beta-feeds-google-reader-replacement/">AOL's RSS client</a> will rank as a <a href="http://www.engadget.com/2013/03/13/google-reader-shut-down-spring-cleaning/">Google Reader</a> <a href="http://www.engadget.com/2013/03/14/the-outrage-and-sadness-of-google-readers-demise/">replacement</a>? Today's the day we find out, as the doors to the AOL Reader beta have officially swung open. <a href="http://www.engadget.com/2013/06/03/feedly-promises-new-features-windows-support-reeder-integreation/">Feedly's</a> been absorbing Google's castaways for weeks now, and <a href="http://www.engadget.com/2013/06/17/digg-rss-reader-june-26/">Digg's</a> is only two days away from launching its own freemium RSS client -- but we couldn't resist getting an early taste of what our parent company (<strong><em>Disclaimer alert!</em></strong>) is cooking. Join us after the break for all the details about this latest entrant in the field of feed readers.</p>
+
+			<p class="read-more">
+			<a href="http://www.engadget.com/2013/06/24/aol-reader-hands-on/#continued"><strong>Read the Full Story</strong></a> |
+			<a href="http://www.engadget.com/2013/06/24/aol-reader-hands-on/#comments"><strong><span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="20632162">0</span>&nbsp;Comments</strong></a>
+			</P>
+		</div>
+	<div class="post-meta">
+		<div class="meta-asides">
+			<aside class="meta-sources">
+				
+				
+			</aside>
+
+			<aside class="meta-social">
+		<a class="aol-share-placeholder" data-bid="21" data-pid="20632162" href="mailto:yourfriend@email.com?subject=AOL+Reader+beta+officially+available+for+your+RSS-perusing+needs+%28hands-on%29&body=http://www.engadget.com/2013/06/24/aol-reader-hands-on/" title="AOL Reader beta officially available for your RSS-perusing needs (hands-on)"></a>
+			</aside>
+		</div>
+	</div><!-- /.post-meta -->
+
+	</div><!-- /.post-body -->
+
+</article><!-- /.post --><ul class="post-pagination">
+<li class="older"><a href="/page/2/" rel="prev"><i class="s-arrow-blue-left"></i> Older Posts</a></li>
+
+</ul><script>when.eng("eng.list.init")</script>
+
+<!-- /M --> 
+		 
+		 
+		 
+	</div>
+
+	<!-- Rail -->
+	<div id="rail" class="nocontent">
+		<!-- M:rail-ad-topper -->
+
+
+<div class="ad rail-ad rail-ad-topper">
+	<script>
+	onBreak({
+		980: function () {
+                        adSetType("F");
+			htmlAdWH("93310577", "RR", "RR");
+                        adSetType("");
+		}
+	});
+	</script>
+</div>
+
+
+<!-- /M --> 
+				<!-- M:rail-collection-main -->
+<div id="rail-collection-main">
+
+</div>
+<!-- /M --> 
+		 
+		<!-- M:rail-ad-skyscraper -->
+
+
+<div class="ad rail-ad rail-ad-skyscraper">
+	<script>
+	onBreak({
+		980: function () {
+                        adSetType("F");
+			htmlAdWH("93304233", "160", "600");
+                        adSetType("");
+		}
+	});
+	</script>
+</div>
+
+
+<!-- /M --> 
+		<script>when.eng("eng.rail.init")</script>
+ 
+	</div>
+</div>
+
+<!-- Page footer -->
+<div id="footer" class="container">
+	 
+	 
+	 
+	 
+	<!-- M:footer-global -->
+
+<footer>
+	<div id="footer-like" class="nocontent">
+		<h4>Sites We Like</h4>
+		<div class="body">
+			<div class="linkage">
+				<h5>Tech</h5>
+				<ul>
+                                        <li><a href="http://www.tuaw.com">Apple News</a></li>					
+                                        <li><a href="http://www.gdgt.com">gdgt</a></li>
+                                        <li><a href="http://boingboing.net/">Boing Boing</a></li>
+					<li><a href="http://www.slashdot.com">Slashdot</a></li>
+					<li><a href="http://www.makezine.com">MAKE</a></li>		
+					<li><a href="http://www.arstechnica.com/">Ars Technica</a></li>
+					<li><a href="http://www.techmeme.com/">TechMeme</a></li>
+					<li><a href="http://www.phonescoop.com/">Phone Scoop</a></li>
+				</ul>
+			</div>
+			<div class="linkage">
+				<h5>Design</h5>
+				<ul>
+					<li><a href="http://ffffound.com/">FFFFOUND!</a></li>
+					<li><a href="http://core77.com/">Core77</a></li>
+					<li><a href="http://popcornshower.tumblr.com/">Popcorn Shower</a></li>
+					<li><a href="http://mocoloco.com/">MoCo Loco</a></li>
+					<li><a href="http://www.designspongeonline.com/">Design*Sponge</a></li>
+					<li><a href="http://thesartorialist.blogspot.com/">The Sartorialist</a></li>
+				</ul>
+			</div>
+			<div class="linkage">
+				<h5>News</h5>
+				<ul>
+					<li><a href="http://www.huffingtonpost.com/politics/">HuffPost Politics</a></li>
+					<li><a href="http://www.thedailybeast.com/">The Daily Beast</a></li>
+					<li><a href="http://www.huffingtonpost.com/">Huffington Post</a></li>
+					<li><a href="http://www.dailyfinance.com/category/technology/">Tech News</a></li>
+					<li><a href="http://www.dailyfinance.com/category/company-news/">Business News</a></li>
+					<li><a href="http://www.dailyfinance.com/investor/">Investing News</a></li>
+				</ul>
+			</div>
+			<div class="linkage">
+				<h5>Lifestyle</h5>
+				<ul>
+					<li><a href="http://www.lifehacker.com">Lifehacker</a></li>
+					<li><a href="http://www.huffingtonpost.com/women/">HuffPost Women</a></li>
+					<li><a href="http://www.stylelist.com">Stylelist</a></li>
+					<li><a href="http://www.autoblog.com/">Automotive</a></li>
+                                        <li><a href="http://translogic.aolautos.com/">Translogic</a></li>
+					<li><a href="http://www.gadling.com/">Gadling</a></li>
+				</ul>
+			</div>
+			<div class="linkage">
+				<h5>Environmental</h5>
+				<ul>
+					<li><a href="http://www.inhabitat.com">Inhabitat</a></li>
+					<li><a href="http://www.good.is/">Good</a></li>
+					<li><a href="http://green.autoblog.com/">Autoblog Green</a></li>
+					<li><a href="http://www.huffingtonpost.com/green/">Huffpost Green</a></li>
+				</ul>
+			</div>
+			<div class="linkage">
+				<h5>Entertainment</h5>
+				<ul>
+                                        <li><a href="http://joystiq.com/">Joystiq</a></li>					
+                                        <li><a href="http://massively.joystiq.com/">Massively</a></li>
+					<li><a href="http://www.theonion.com/content/index">The Onion</a></li>
+					<li><a href="http://io9.com/">i09</a></li>
+					<li><a href="http://www.huffingtonpost.com/celebrity/">HuffPost Celebrity</a></li>
+					<li><a href="http://www.spinner.com/">Spinner</a></li>
+					<li><a href="http://www.moviefone.com/">Moviefone</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div id="footer-controls">
+		<ul class="site-tools">
+                         <li class="about cap-left">
+				<a href="/about">
+					About Us
+				</a>
+			</li>
+			<li class="rss">
+				<a href="http://www.engadget.com/rss.xml">
+					Subscribe <span class="info">via RSS</span>
+					<i class="s-icn-rss"></i>
+				</a>
+			</li>
+			<li class="facebook">
+				<a href="http://www.facebook.com/Engadget">
+					Like Engadget <span class="info">on Facebook</span>
+					<i class="s-icn-facebook"></i>
+				</a>
+			</li>
+			<li class="twitter cap-right">
+				<a href="http://twitter.com/intent/user?screen_name=engadget">
+					@engadget <span class="info">on Twitter</span>
+					<i class="s-icn-twitter"></i>
+				</a>
+			</li>
+		</ul>
+
+		<ul class="language">
+			<li lang="es">
+				<a href="http://es.engadget.com" title="Spanish">
+					Español
+				</a>
+			</li>
+			<li lang="zh">
+				<a href="http://chinese.engadget.com" title="Traditional Chinese">
+					繁體中文
+				</a>
+			</li>
+			<li lang="zh">
+				<a href="http://cn.engadget.com" title="Simplified Chinese">
+					简体中文
+				</a>
+			</li>
+			<li lang="ja">
+				<a href="http://japanese.engadget.com" title="Japanese">
+					日本版
+				</a>
+			</li>
+			<li lang="de">
+				<a href="http://de.engadget.com" title="German">
+					Deutschland
+				</a>
+			</li>
+		</ul>
+	</div>
+
+	<div id="footer-feed" class="nocontent">
+		<div class="body">
+			<div class="linkage">
+<h5><a href="http://www.joystiq.com">Joystiq</a></h5>
+<ul><li><a href="http://www.joystiq.com/2013/06/24/steam-trading-cards-launch-this-week-imminent-summer-sale-hinte/">Steam Trading Cards launch this week, summer sale seems imminent</a></li><li><a href="http://www.joystiq.com/2013/06/24/the-last-of-us-tops-uk-charts-for-second-week/">The Last of Us tops UK charts for second week</a></li><li><a href="http://www.joystiq.com/2013/06/23/stiq-figures-june-10-16-reggie-crossing-edition/">Stiq Figures, June 10 - 16: Reggie Crossing edition</a></li></ul>
+</div>
+			<div class="linkage">
+<h5><a href="http://www.tuaw.com">Tuaw</a></h5>
+<ul><li><a href="http://www.tuaw.com/2013/06/24/a-closer-look-at-ibeacons-location-awareness-through-bluetooth/">A closer look at iBeacons: Location awareness through Bluetooth LE</a></li><li><a href="http://www.tuaw.com/2013/06/24/serious-game-developers-tripped-up-by-app-store-rules/">Serious game developers tripped up by App Store Rules</a></li><li><a href="http://www.tuaw.com/2013/06/24/facebook-security-bug-exposed-user-data-for-6-million-users/">Facebook security bug exposed user data for 6 million users</a></li></ul>
+</div>
+			<div class="linkage">
+<h5><a href="http://www.techcrunch.com">TechCrunch</a></h5>
+<ul><li><a href="http://feedproxy.google.com/~r/Techcrunch/~3/JR89J7njgW0/">Samsung Galaxy Tab 3 10.1, 8.0 and 7.0 Coming To The U.S. July 7 For $399, $299 And $199</a></li><li><a href="http://feedproxy.google.com/~r/Techcrunch/~3/RUlm6feY7AM/">Michigan's Huron River Ventures Partners Announces $11M Fund For Energy Efficient Startups</a></li><li><a href="http://feedproxy.google.com/~r/Techcrunch/~3/wL16wLTVQjg/">Travel Search Site Wego Closes $17M Series C</a></li></ul>
+</div>
+			<div class="linkage">
+<h5><a href="http://www.huffingtonpost.com/tech/">HuffPost Tech</a></h5>
+<ul><li><a href="http://www.huffingtonpost.com/2013/06/24/technology-disabilities_n_3486424.html">The Technology That's Keeping The Disabled Employed</a></li><li><a href="http://www.huffingtonpost.com/2013/06/22/att-verizon-fees_n_3480841.html">Why AT&T And Verizon Subscribers May Soon See Bigger Bills</a></li><li><a href="http://www.huffingtonpost.com/2013/06/22/home-privacy_n_3474103.html">7 Surprising Household Items That Invade Your Privacy</a></li></ul>
+</div>
+		</div>
+	</div>
+
+	<div id="footer-legal">
+		<a href="http://www.aoltech.com" class="s-aol-tech-logo">AOL Tech.</a>
+
+		<p>
+			<span>
+				&copy; 2013 AOL Inc.<br>
+				All rights reserved.
+			</span>
+
+                        <a href="http://www.EngadgetReprints.com">Reprints and Permissions</a>			
+                        <a href="http://about.aol.com/aolnetwork/aol_pp">Privacy Policy</a>
+			<a href="http://about.aol.com/aolnetwork/mem_tos">Terms of Use</a>
+			<a href="http://about.aol.com/aolnetwork/trademarks">Trademarks</a>
+			<a href="http://help.aol.com/">AOL A-Z Help</a>
+			<a href="http://advertising.aol.com/brands/engadget">Advertise with Us</a>
+		</p>
+	</div>
+</footer>
+<!-- /M --> 
+	 
+	 
+	 
+	 
+</div>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<!-- Livefyre Commentcount JS -->
+<script>
+       lab.script("http://zor.fyre.co/wjs/v1.0/javascripts/CommentCount.js");
+</script>
+
+
+<script>
+// iOS scaling fix
+(function(e){var c="addEventListener",b="gesturestart",g="querySelectorAll",f=[1,1],d=g in e?e[g]("meta[name=viewport]"):[];function a(){d.content="width=device-width,minimum-scale="+f[0]+",maximum-scale="+f[1];e.removeEventListener(b,a,true)}if((d=d[d.length-1])&&c in e){a();f=[0.25,1.6];e[c](b,a,true)}}(document));
+// hide chrome on mobile
+/mobile/i.test(navigator.userAgent) && !location.hash && setTimeout(function () {
+  if (!pageYOffset) window.scrollTo(0, 1);
+}, 1000);
+</script>
+
+<script type="text/javascript">
+var _gaq = [['_setAccount', 'UA-818999-11'], ['_setDomainName', 'engadget.com'], ['_trackPageview']];
+(function(d, t) {
+var g = d.createElement(t),
+s = d.getElementsByTagName(t)[0];
+g.src = ('https:' == document.location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+s.parentNode.insertBefore(g, s)
+}(document, 'script'));
+</script> 
+
+</body>
+</html>

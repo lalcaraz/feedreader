@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /base/
+Disallow: /controller/
+Disallow: /model/
+Disallow: /raintpl/
+Disallow: /tmp/
+Disallow: /view/
+Sitemap: /sitemap.php

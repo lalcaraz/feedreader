@@ -1,0 +1,46 @@
+{include="desktop/header"}
+
+{if condition="$fsc->stories"}
+   <script src="{$path}/view/js/jquery.masonry.min.js"></script>
+   <script type="text/javascript">
+      $(document).ready(function() {
+         $("#stories").masonry({
+            itemSelector: '.story',
+            isFitWidth: true,
+            isAnimated: true
+         });
+      });
+   </script>
+   
+   <div id="stories">
+      {loop="$fsc->stories"}
+         <div class="story{if condition="$value->readed()"} story_readed{/if}" onclick="fs_popup_story('{$path}/{$value->url()}')">
+            {if condition="$value->media_item"}
+               <div class="image">{$value->media_item->show_image()}</div>
+               <h1>{$value->title}</h1>
+            {else}
+               <h1>{$value->title}</h1>
+               <p>{$value->description()}</p>
+            {/if}
+            <div class="timesince">
+               {$value->popularity()}
+               <span>{$value->timesince()}</span>
+            </div>
+         </div>
+         <a href="{$path}/{$value->url()}"></a>
+      {/loop}
+   </div>
+{else}
+   <div class="info">
+      <h1>No se han encontrado noticias populares :(</h1>
+      <p>
+         Esto es muy grave. No en plan "¡Vamos a morir todos!". No, simplemente
+         es una mierda.<br/>
+         Añade alguna fuente desde la sección
+         <a href="{$path}/index.php?page=feed_list">fuentes</a>. O deja que lo haga
+         otro y luego di que has sido tú y te llevas el mérito ;-)
+      </p>
+   </div>
+{/if}
+
+{include="desktop/footer"}
