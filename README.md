@@ -1,6 +1,9 @@
-<<<<<<< HEAD
-__FeedStorm__ es un hibrido entre Google Reader y Pinterest,
-pero anónimo y software libre.
+
+=======
+feedreader
+==========
+
+Feedreader basado en FeedStorm para uso de los editores de VidaEnLinea
 
 FeedStorm usa RainTPL, MongoDB, php-curl y php-gd.
 Para instalar MongoDB sigue estos tutoriales:
@@ -37,9 +40,3 @@ Por último dale permisos de ejecución:
 
 Y listo. Si tienes algún problema no dudes en informar:
 https://github.com/NeoRazorX/feedstorm/issues
-=======
-feedreader
-==========
-
-Feedreader basado en FeedStorm para uso de los editores de VidaEnLinea
->>>>>>> 0cccecf7d7dd1c0105b8d186fb3adfbaff6be349
